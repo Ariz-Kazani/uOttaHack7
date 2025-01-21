@@ -14,9 +14,9 @@ and ended up securing a 3rd place finish at the uOttaHack 7 hackathon!
 
 👨‍💻 [Ariz Kazani](https://github.com/Ariz-Kazani): Software Developer (Wrote code interacting with the robot and QNX)
 
-👷‍♂️ [Sanil Srivastava](https://github.com/rayhaanfarooq): Hardware Engineer (Built and Assembled the hardware and circuits)
+👷‍♂️ [Sanil Srivastava](https://github.com/sanil04): Hardware Engineer (Built and Assembled the hardware and circuits)
 
-⚙️ [Rayhaan Faroq](https://github.com/sanil04): Software Developer (Wrote code and debugged a lot of QNX issues)
+⚙️ [Rayhaan Farooq](https://github.com/rayhaanfarooq): Software Developer (Wrote code and debugged a lot of QNX issues)
 
 🧬 [Muhammed Maisam](): Product Designer (Created the idea for the robot and blueprints) 
 
